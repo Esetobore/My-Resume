@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="about_me">About Me</string>
+    <string name="summary">An entry level software engineer with a bachelor\'s degree in computer science. I am proficient in major computer technologies raging from working autonomous servers, operating system, programming, architecture concepts and principles</string>
+    <string name="heading2"><![CDATA[Education & Certification]]></string>
+    <string name="heading1">Work Experience</string>
+    <string name="heading3">Skills</string>
+    <string name="heading4">Socials</string>
+    <string name="CCT_BULLET">Promoted company projects and campaigns to potential clients. Created reports and data-driven presentations. Attended various lectures and events whiles engaging with other students and Instructors</string>
+    <string name="CCT_DATE">2021 May-August</string>
+    <string name="CCT_ROLE">Student</string>
+    <string name="EDU_1">Bachelor Degree in Computer Science</string>
+    <string name="EDU_1_DETAILS">Afe Babalola University - Ekiti, Nigeria - 2022</string>
+    <string name="CER_1">Induction into the Council of Computer Professionals Nigeria</string>
+    <string name="VOTE_BULLET">Its an online voting app through which voters can vote in ongoing elections created by election Admins. Only verified voters will be bale to vote and candidate can enroll for the election. Built with: Kotlin and Firebase</string>
+    <string name="MVVM_BULLET">Its an application with the main intent of incorporating the principles of working with MVVM architecture with its main functionality derived from using certain database information and authentication support Builth with: Kotlin, API, Retrofit, Firebase</string>
+    <string name="COMPANY">At the company as an ideal candidate i aid in creating technical design and implementation of new products and maintaining of existing products. Various things i can offer range from utilizing source control, continuous integration and unit testing best practices. Below are projects that ive worked on</string>
+    <string name="IG_BULLET">Functionality that resembles that of the original instagram but with the main intent of using as a means of exploring various concepts involved with android development. Built with: Java, Firebase</string>
+</resources>
