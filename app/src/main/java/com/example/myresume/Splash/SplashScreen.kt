@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.os.HandlerCompat.postDelayed
+import androidx.lifecycle.lifecycleScope
 import com.airbnb.lottie.LottieAnimationView
 import com.example.myresume.MainActivity
 import com.example.myresume.ProjectPage
@@ -24,7 +25,8 @@ class SplashScreen : AppCompatActivity() {
         lottieImage1.animate().translationY(1500f).setDuration(1000).startDelay = 5000
         lottieImage2.animate().translationY(1500f).setDuration(1000).startDelay = 5000
 
-        GlobalScope.launch (Dispatchers.Default){
+
+        lifecycleScope.launch (Dispatchers.Default){
             intent()
         }
 }
@@ -32,5 +34,6 @@ class SplashScreen : AppCompatActivity() {
     private suspend fun intent(){
         delay(6000)
         startActivity(Intent(this, MainActivity::class.java))
+        finish()
     }
 }
