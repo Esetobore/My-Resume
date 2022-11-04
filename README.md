@@ -23,13 +23,15 @@ reposonsive and visually pleasing
 </p>
 
 ## Libraries Used
-* For the libraries there but one just one major dependency which is
+* All libraries included can be seen below:
 <a href="https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app">
 	LottieFiles
 </a>
 <p>
 	Solid Documentation and they have a range of free resources that can select from and utilize in customizing the splash screen
 </p>
+
+* Coroutine lifecycleScope dependencies. I tend to utilize coroutines anywhere i can and there isnt support for lifecyclescope out of the box so the dependency was needed
 
 ## APK
 * Android [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9934192/My.Resume.zip)
