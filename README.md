@@ -41,8 +41,9 @@ reposonsive and visually pleasing form.
 </a> respectively.
 
 ## APP Links
-* Website preview(Appetize.io) of Apk: <a href="https://appetize.io/app/iwpgo4b6ofagdg72tgnilznbqe">My-Resume</a>
-* Android: [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9941593/My.Resume.zip)
+* Website preview(Appetize.io) of Apk: <a href="https://appetize.io/app/ltustklipbr6bqrkomsyyxvtha">My-Resume</a>
+* Android: [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9942468/My.Resume.zip)
+
 
 
 
