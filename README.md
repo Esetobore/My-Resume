@@ -10,7 +10,8 @@ reposonsive and visually pleasing form.
 * A home page which provides navigation to various parts of the app that tell more about me.
 * **About Page** here all my necessary details can been found from work experience to certificates and awards.
 * **Projects Page** as in the name it shows the user all existing projects ive workede on or currently working on.
-* **Dark Mode** Application supports both a dark and light ui design aesthetic.
+* **Dark Mode** The app supports both a dark and light ui design aesthetic.
+* **Multi Language** On the app there is support for three languages which is English(default), French and German
 
 
 <p align="center">
@@ -34,12 +35,15 @@ reposonsive and visually pleasing form.
 </p>
 
 * Coroutine lifecycleScope dependencies. I tend to utilize coroutines anywhere i can and there isnt support for lifecyclescope out of the box so the dependency was needed
-* **Other items** included png files and the json files gotten from various websites and <a href="https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app">
+* **Other items** included png files and the json files gotten from various websites and 
+<a href="https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app">
 	LottieFiles
 </a> respectively.
+
 ## APP Links
-* Website preview of Apk: 
-* Android: [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9934192/My.Resume.zip)
+* Website preview(Appetize.io) of Apk: <a href="https://appetize.io/app/iwpgo4b6ofagdg72tgnilznbqe">My-Resume</a>
+* Android: [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9941593/My.Resume.zip)
+
 
 
 ## Chanllenges
