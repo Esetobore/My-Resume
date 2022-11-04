@@ -2,14 +2,16 @@
 
 
 
-My Resume is a window into my skill set and various achievemnet. It shows my credentials in a smooth
-reposonsive and visually pleasing 
+My Resume is a window into my skill set and various achievement. It shows my credentials in a smooth,
+reposonsive and visually pleasing form. 
 
 ## The Features include
 * An animated splash actvity that welcomes all users to the app.
 * A home page which provides navigation to various parts of the app that tell more about me.
-* **About Page** here all my necessary details can been found from work experience to certificates and awards
+* **About Page** here all my necessary details can been found from work experience to certificates and awards.
 * **Projects Page** as in the name it shows the user all existing projects ive workede on or currently working on.
+* **Dark Mode** Application supports both a dark and light ui design aesthetic.
+
 
 <p align="center">
 	The Design concept for the app originated from a UI	design on Dribble. 
@@ -23,7 +25,7 @@ reposonsive and visually pleasing
 </p>
 
 ## Libraries Used
-* All libraries included can be seen below:
+* All libraries except for the default included can be seen below:
 <a href="https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app">
 	LottieFiles
 </a>
@@ -32,10 +34,12 @@ reposonsive and visually pleasing
 </p>
 
 * Coroutine lifecycleScope dependencies. I tend to utilize coroutines anywhere i can and there isnt support for lifecyclescope out of the box so the dependency was needed
-
-## APK
-* Android [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9934192/My.Resume.zip)
-
+* **Other items** included png files and the json files gotten from various websites and <a href="https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-animations-in-android-app">
+	LottieFiles
+</a> respectively.
+## APP Links
+* Website preview of Apk: 
+* Android: [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9934192/My.Resume.zip)
 
 
 ## Chanllenges
