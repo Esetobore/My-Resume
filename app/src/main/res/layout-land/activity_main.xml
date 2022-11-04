@@ -13,9 +13,10 @@
         style="@style/TEXT"
         android:layout_width="159dp"
         android:layout_height="158dp"
-        android:layout_marginStart="32dp"
+        android:layout_marginStart="40dp"
         android:layout_marginTop="216dp"
-        android:text="Hi, I'm Esetobore Mobile Developer"
+        android:padding="10dp"
+        android:text="@string/NAME"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -50,11 +51,11 @@
 
             <TextView
                 style="@style/TEXT"
-                android:layout_width="44dp"
-                android:layout_height="33dp"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
                 android:layout_marginTop="32dp"
                 android:layout_marginEnd="80dp"
-                android:text="My Work"
+                android:text="@string/my_work"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />

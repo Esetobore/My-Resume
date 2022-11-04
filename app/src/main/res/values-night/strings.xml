@@ -17,4 +17,22 @@
     <string name="MVVM_BULLET">Its an application with the main intent of incorporating the principles of working with MVVM architecture with its main functionality derived from using certain database information and authentication support Builth with: Kotlin, API, Retrofit, Firebase</string>
     <string name="COMPANY">At the company as an ideal candidate i aid in creating technical design and implementation of new products and maintaining of existing products. Various things i can offer range from utilizing source control, continuous integration and unit testing best practices. Below are projects that ive worked on</string>
     <string name="IG_BULLET">Functionality that resembles that of the original instagram but with the main intent of using as a means of exploring various concepts involved with android development. Built with: Java, Firebase</string>
+    <string name="NAME">Hi, I\'m Esetobore Mobile Developer</string>
+    <string name="my_work">My Work</string>
+    <string name="CCT_NAME">Complete Computers Technology Limited</string>
+    <string name="problem_solving">Problem Solving</string>
+    <string name="googling">Googling</string>
+    <string name="communication">Communication</string>
+    <string name="git_amp_github"><![CDATA[Git & Github]]></string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_development">Android Development</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="projects">Projects</string>
+    <string name="voting_app">Voting App</string>
+    <string name="freelance_project">Freelance Project</string>
+    <string name="side_project">Side Project</string>
+    <string name="instagram_clone">Instagram Clone</string>
+    <string name="learning_project">Learning Project</string>
+    <string name="IGCLONE_BULLET">Functionality that resembles that of the original instagram but with the main intent of using as a means of exploring various concepts involed with android development. Built with: Java, Firebase</string>
 </resources>

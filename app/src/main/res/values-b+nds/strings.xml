@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein Lebenslauf</string>
+    <string name="about_me">Über mich</string>
+    <string name="summary">Ein Einstiegs-Software-Ingenieur mit einem Bachelor-Abschluss in Informatik. Ich beherrsche die wichtigsten Computertechnologien, die von funktionierenden autonomen Servern, Betriebssystemen, Programmierung, Architekturkonzepten und -prinzipien ausgehen</string>
+    <string name="heading2">Schulung und Zertifizierung</string>
+    <string name="heading1">Praktikum</string>
+    <string name="heading3">Fähigkeiten</string>
+    <string name="heading4">Sozial</string>
+    <string name="CCT_BULLET">Förderung von Unternehmensprojekten und Kampagnen bei potenziellen Kunden. Erstellung von Berichten und datengesteuerten Präsentationen. Teilnahme an verschiedenen Vorlesungen und Veranstaltungen, während er sich mit anderen Studenten und Dozenten austauschte</string>
+    <string name="CCT_DATE">2021 Mai-August</string>
+    <string name="CCT_ROLE">Student</string>
+    <string name="EDU_1">Bachelor-Abschluss in Informatik</string>
+    <string name="EDU_1_DETAILS">Afe Babalola University - Ekiti, Nigeria - 2022</string>
+    <string name="CER_1">Aufnahme in den Council of Computer Professionals Nigeria</string>
+    <string name="VOTE_BULLET">Es ist eine Online-Wahl-App, über die Wähler bei laufenden Wahlen abstimmen können, die von Wahladministratoren erstellt wurden. Nur verifizierte Wähler können wählen und der Kandidat kann sich für die Wahl anmelden. Gebaut mit: Kotlin und Firebase</string>
+    <string name="MVVM_BULLET">Es ist eine Anwendung mit der Hauptabsicht, die Prinzipien der Arbeit mit MVVM-Architektur mit ihrer Hauptfunktionalität zu integrieren, die sich aus der Verwendung bestimmter Datenbankinformationen und Authentifizierungsunterstützung ergibt Erstellt mit: Kotlin, API, Retrofit, Firebase</string>
+    <string name="COMPANY">Im Unternehmen als idealer Kandidat helfe ich bei der Erstellung des technischen Designs und der Implementierung neuer Produkte und der Wartung bestehender Produkte. Verschiedene Dinge, die ich anbieten kann, reichen von der Verwendung von Quellcodeverwaltung, kontinuierlicher Integration und Best Practices für Komponententests. Im Folgenden finden Sie Projekte, an denen ich gearbeitet habe</string>
+    <string name="IG_BULLET">Funktionalität, die der des ursprünglichen Instagram ähnelt, aber mit der Hauptabsicht, verschiedene Konzepte der Android-Entwicklung zu erkunden. Gebaut mit: Java, Firebase</string>
+    <string name="NAME">Hallo, ich bin Esetobore Mobile Developer</string>
+    <string name="my_work">Meine Arbeit</string>
+    <string name="problem_solving">Problemlösen</string>
+    <string name="googling">Googeln</string>
+    <string name="communication">Kommunikation</string>
+    <string name="projects">Projekte</string>
+    <string name="voting_app">Abstimmungs-App</string>
+    <string name="freelance_project">Freiberufliches Projekt</string>
+    <string name="side_project">Nebenprojekt</string>
+    <string name="instagram_clone">Instagram-Klon</string>
+    <string name="learning_project">Lernprojekt</string>
+    <string name="IGCLONE_BULLET">Funktionalität, die der des ursprünglichen Instagram ähnelt, aber mit der Hauptabsicht, verschiedene Konzepte der Android-Entwicklung zu erkunden. Gebaut mit: Java, Firebase</string>
+</resources>
