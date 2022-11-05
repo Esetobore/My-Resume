@@ -8,13 +8,12 @@ reposonsive and visually pleasing form.
 ## CodeBase
 * The Codebase was arranged in a standard manner with subfolders for the various parts of the application to reduce complications
 **Sub Folder** <P> splash: Contains the splash.kt</p> <P> drawables: For all png and clip art used</p> <P> All layouts landscape and portrait individually grouped in the Layout resource file</p>
-
-
-## The Features include
 * An animated splash actvity that welcomes all users to the app.
 * A home page which provides navigation to various parts of the app that tell more about me.
 * **About Page** here all my necessary details can been found from work experience to certificates and awards.
 * **Projects Page** as in the name it shows the user all existing projects ive workede on or currently working on.
+
+## The Features include
 * **Dark Mode** The app supports both a dark and light ui design aesthetic.
 * **Multi Language** On the app there is support for three languages which is English(default), French and German
 
