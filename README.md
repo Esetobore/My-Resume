@@ -5,6 +5,11 @@
 My Resume is a window into my skill set and various achievement. It shows my credentials in a smooth,
 reposonsive and visually pleasing form. 
 
+## CodeBase
+* The Codebase was arranged in a standard manner with subfolders for the various parts of the application to reduce complications
+**Sub Folder** <P> splash: Contains the splash.kt</p> <P> drawables: For all png and clip art used</p> <P> All layouts landscape and portrait individually grouped in the Layout resource file</p>
+
+
 ## The Features include
 * An animated splash actvity that welcomes all users to the app.
 * A home page which provides navigation to various parts of the app that tell more about me.
