@@ -51,12 +51,6 @@ reposonsive and visually pleasing form.
 
 
 
-## Challenges
-* 
-## Other Note
-* On this app all the data is hard coded in and given more time i would have wanted to allow it to support multiple entries from users who would want to use the app for thier own portfolio and the ability to link all data showed on the app to various refrences that can verify all the infromation entered.
-
-
 
 
 
