@@ -56,7 +56,6 @@
                 <androidx.constraintlayout.widget.ConstraintLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
-
                     <androidx.cardview.widget.CardView
                         style="@style/CARD2"
                         android:layout_width="50dp"
@@ -124,6 +123,76 @@
                         android:layout_marginStart="564dp"
                         android:layout_marginTop="40dp"
                         android:text="@string/CCT_DATE"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="15dp"
+                style="@style/CARD"
+                android:layout_margin="15dp"
+                app:cardElevation="10dp">
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <androidx.cardview.widget.CardView
+                        style="@style/CARD2"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="16dp"
+                        android:layout_marginTop="24dp"
+                        android:layout_marginEnd="7dp"
+                        app:cardCornerRadius="15dp"
+                        app:layout_constraintEnd_toStartOf="@+id/textView2"
+                        app:layout_constraintHorizontal_bias="0.0"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent">
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/freelance" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+                    <TextView
+                        android:id="@+id/textView2"
+                        style="@style/TEXT"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="24dp"
+                        android:text="@string/freelance_mobile_dev"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        style="@style/TEXT"
+                        android:layout_width="668dp"
+                        android:layout_height="95dp"
+                        android:layout_marginStart="16dp"
+                        android:layout_marginTop="88dp"
+                        android:padding="10dp"
+                        android:text="@string/Free_BULLET"
+                        android:textSize="20sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                    <TextView
+                        style="@style/TEXT"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="564dp"
+                        android:layout_marginTop="40dp"
+                        android:text="@string/Free_DATE"
                         android:textSize="15sp"
                         android:textStyle="bold"
                         app:layout_constraintStart_toStartOf="parent"
