@@ -37,4 +37,6 @@
     <string name="IGCLONE_BULLET">Functionality that resembles that of the original instagram but with the main intent of using as a means of exploring various concepts involed with android development. Built with: Java, Firebase</string>
     <string name="Free_DATE">2022 July - Present</string>
     <string name="Free_BULLET">Completed Projects on time and under budget for a variety of clients. Proven ability to manage multiple projects simultaneously while meeting deadlines.</string>
+    <string name="explore">Explore</string>
+    <string name="EXPLORE_BULLET">Explore is an application that explores all the various countries and various information about them. Built with: Kotlin, API, Retrofit, Glide, Coroutines, MVVM Architecture</string>
 </resources>
