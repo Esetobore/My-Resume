@@ -5,11 +5,15 @@
 My Resume is a window into my skill set and various achievement. It shows my credentials in a smooth,
 reposonsive and visually pleasing form. 
 
-## The Features include
+## CodeBase
+* The Codebase was arranged in a standard manner with subfolders for the various parts of the application to reduce complications
+**Sub Folder** <P> splash: Contains the splash.kt</p> <P> drawables: For all png and clip art used</p> <P> All layouts landscape and portrait individually grouped in the Layout resource file</p>
 * An animated splash actvity that welcomes all users to the app.
 * A home page which provides navigation to various parts of the app that tell more about me.
 * **About Page** here all my necessary details can been found from work experience to certificates and awards.
 * **Projects Page** as in the name it shows the user all existing projects ive workede on or currently working on.
+
+## The Features include
 * **Dark Mode** The app supports both a dark and light ui design aesthetic.
 * **Multi Language** On the app there is support for three languages which is English(default), French and German
 
@@ -41,15 +45,10 @@ reposonsive and visually pleasing form.
 </a> respectively.
 
 ## APP Links
-* Website preview(Appetize.io) of Apk: <a href="https://appetize.io/app/iwpgo4b6ofagdg72tgnilznbqe">My-Resume</a>
-* Android: [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9941593/My.Resume.zip)
+* Website preview(Appetize.io) of Apk: <a href="https://appetize.io/app/ltustklipbr6bqrkomsyyxvtha">My-Resume</a>
+* Android: [My Resume.zip](https://github.com/Esetobore/My-Resume/files/9942468/My.Resume.zip)
 
 
-
-## Challenges
-* 
-## Other Note
-* On this app all the data is hard coded in and given more time i would have wanted to allow it to support multiple entries from users who would want to use the app for thier own portfolio and the ability to link all data showed on the app to various refrences that can verify all the infromation entered.
 
 
 
